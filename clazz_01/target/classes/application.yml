@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+person:
+  name: Ryan
+  age: 18
+  likes:
+    - study
+    - jerry

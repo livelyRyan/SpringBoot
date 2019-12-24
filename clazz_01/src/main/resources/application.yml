@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+# 自定义的属性值
+person:
+  name: Ryan
+  age: 18
+  likes:
+    - study
+    - jerry
