@@ -1,9 +1,12 @@
-server:
-  port: 8081
+spring:
+  profiles:
+    active: dev
 
+# 自定义的属性值
 person:
-  name: Ryan
-  age: 18
+  name: ryan
+  email: aaa
   likes:
     - study
     - jerry
+sex: 男

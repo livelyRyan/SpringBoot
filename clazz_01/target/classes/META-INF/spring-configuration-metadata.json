@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.ryan.entity.Person",
+      "sourceType": "com.ryan.entity.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ryan.entity.Person",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.email",
+      "type": "java.lang.String",
+      "sourceType": "com.ryan.entity.Person"
+    },
+    {
+      "name": "person.likes",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.ryan.entity.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ryan.entity.Person"
+    },
+    {
+      "name": "person.sex",
+      "type": "java.lang.String",
+      "sourceType": "com.ryan.entity.Person"
+    }
+  ],
+  "hints": []
+}
