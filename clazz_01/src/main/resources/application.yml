@@ -1,7 +1,7 @@
 # 支持分环境的配置文件
 spring:
   profiles:
-    active: dev
+    active: test
 
 # 自定义的属性值
 person:
